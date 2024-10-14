@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: "Featured Projects"
-permalink: /projects/projects
-collection: Projects
+permalink: /projects/healthcare-projects
+collection: projects
 
 ---
 
