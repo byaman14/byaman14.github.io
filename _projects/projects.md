@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Featured Projects"
+permalink: /projects/projects
 collection: Projects
 
 ---
