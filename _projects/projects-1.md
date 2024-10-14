@@ -1,10 +1,9 @@
 ---
 title: "Featured Projects"
-permalink: /projects/healthcare-projects
 collection: projects
-
+type: "Projects"
+permalink: /projects/projects-1.
 ---
-
 ## Autonomous Driving
 
 
