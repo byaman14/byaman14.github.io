@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "Featured Projects"
 permalink: /projects/healthcare-projects
 collection: projects
