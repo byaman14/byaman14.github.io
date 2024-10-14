@@ -15,24 +15,18 @@ My research  interests include computer vision, self-supervised learning, vision
 
 12/2023  2023 IEEE Signal Processing Society (SPS) Best Dissertation Award.
 
-05/2023  2023 Best Dissertation Award,  University of Minnesota.
+05/2023  2023 [Best Dissertation Award](https://cse.umn.edu/ece/feature-stories/burhaneddin-yaman-recognized-best-dissertation-award#:~:text=Alumnus%20Burhaneddin%20Yaman%20(Ph.,physical%20sciences%20and%20engineering%20category.)),  University of Minnesota.
 
-01/2022  Paper "Zero-Shot Self-Supervised Learning for MRI Reconstruction," was accepted at International Conference on Learning Representations (ICLR) [paper][code].
+01/2022  Paper "Zero-Shot Self-Supervised Learning for MRI Reconstruction," was accepted at International Conference on Learning Representations (ICLR) [[paper](https://openreview.net/forum?id=085y6YPaYjP)][[code](https://github.com/byaman14/ZS-SSL)].
 
 09/2021-11/2021  Machine learning research Intern at Siemens Healthineers
 
 06/2021-08/2021  Computational imaging research Intern at Microsoft Research
 
-05/2020 Journal "Self-Supervised Learning of Physics-Guided Reconstruction Neural Networks without Fully-Sampled Reference Data," was accepted at Magnetic Resonance in Medicine (MRM) [paper][code].
+05/2020 Journal "Self-Supervised Learning of Physics-Guided Reconstruction Neural Networks without Fully-Sampled Reference Data," was accepted at Magnetic Resonance in Medicine (MRM) [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.28378)][[code](https://github.com/byaman14/SSDU)].
 
-04/2020 Best paper award at 17th IEEE International Symposium on Biomedical Imaging (ISBI) .
+04/2020 [Best paper award](https://biomedicalimaging.org/2020/wp-content/uploads/static-html-to-wp/data/dff0d41695bbae509355435cd32ecf5d/best-paper-awards.html) at 17th IEEE International Symposium on Biomedical Imaging (ISBI) .
 
-02/2020 Received Interdisciplinary Doctoral Fellowship, UMN.
+02/2020 Received [Interdisciplinary Doctoral Fellowship](https://grad.umn.edu/news-events/news-overview/2020-2021-interdisciplinary-doctoral-fellowship-recipients-announced), UMN.
 
 02/2020 Received IEM Walter Barnes Lang Fellowship, UMN.
-
-01/2020 Two abstracts were accepted for oral presentation in ISMRM 2020.
-
-01/2020 Paper "Self-Supervised Physics-Based Deep Learning MRI Reconstruction Without Fully-Sampled Data," was accepted at International Symposium on Biomedical Imaging [paper][code].
-
-08/2019 Journal "Low-rank Tensor Models for Improved Multi-dimensional MRI: Applications to Cardiac T1 Mapping," was accepted at IEEE Transactions on Computational Imaging (TCI).
