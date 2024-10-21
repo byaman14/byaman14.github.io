@@ -3,9 +3,6 @@ title: "Featured Projects"
 permalink: /portfolio/
 ---
 
-## Autonomous Driving
-
-
 ## Self-Supervised Learning
 My PhD work focused on self-supervised learning  for solving inverse imaging problems. 
 
