@@ -3,8 +3,14 @@ title: "Featured Projects"
 permalink: /portfolio/
 ---
 
-## Self-Supervised Learning
-My PhD work focused on self-supervised learning  for solving inverse imaging problems. 
+% ### MTA: Multimodal Task Alignment
+% ![Illustration of MTA](/images/mta.png){: .align-right width="300px"} MTA is a multimodal task alignment approach for joint training of 3D % perception and captioning.  MTA achieves SOTA performance on both perception and captioning without introducing additional complexity
+
+### PaPr: Patch Pruning for Faster Inference
+![Illustration of MTA](/images/papr.png) PaPr is a novel background patch pruning method that can seamlessly operate with ViTs for faster inference (>2x). PaPr is a training-free approach and can be easily plugged into existing token pruning methods for further efficiency. 
+
+### VLP: Vision Language Planning
+![Illustration of MTA](/images/vlp.png) VLP is a vision language planning approach for enhancing end-to-end autonomous driving. VLP is a training only approach that distills the power of LLMs into the existent autonomous driving stacks for improved performance.
 
 ### ZS-SSL: Zero-Shot Self-Supervised Learning
 ![Illustration of ZS-SSL](/images/zs_ssl_overview.png){: .align-right width="300px"}
