@@ -3,8 +3,7 @@ title: "Featured Projects"
 permalink: /portfolio/
 ---
 ### MTA: Multimodal Task Alignment
-![Illustration of MTA](/images/mta.png){: .align-right width="300px"}
-MTA is  a novel multimodal task alignment framework that boosts BEV perception and captioning.
+![Illustration of MTA](/images/mta.png){: .align-right width="300px"} MTA is  a novel multimodal task alignment framework that boosts BEV perception and captioning.
 MTA enforces alignment through multimodal contextual learning and cross-modal prompting mechanisms. [Arxiv](https://arxiv.org/pdf/2411.10639).
 ### PaPr: Patch Pruning for Faster Inference
 ![Illustration of MTA](/images/papr.png){: .align-right width="300px"} PaPr is a novel background patch pruning method that can seamlessly operate with ViTs for faster inference (>2x). PaPr is a training-free approach and can be easily plugged into existing token pruning methods for further efficiency. [ECCV 2024](https://arxiv.org/pdf/2403.18965).
