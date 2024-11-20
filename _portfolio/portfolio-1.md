@@ -3,7 +3,7 @@ title: "Featured Projects"
 permalink: /portfolio/
 ---
 ### MTA: Multimodal Task Alignment
-![Illustration of MTA](/images/mta.png){: .align-right width="300px"}
+![Illustration of MTA](/images/mta.pdf){: .align-right width="300px"}
 MTA is  a novel multimodal task alignment framework that boosts BEV perception and captioning.
 MTA introduces two novel alignment modules, BEV-Language Alignment and Detection-Captioning Alignment, which enforce alignment through multimodal contextual learning and cross-modal prompting mechanisms, respectively. [Arxiv](https://arxiv.org/pdf/2411.10639).
 ### PaPr: Patch Pruning for Faster Inference
