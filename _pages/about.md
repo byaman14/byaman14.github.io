@@ -16,6 +16,8 @@ My research  interests include computer vision, self-supervised learning, vision
 
 # Recent updates
 
+09/2024 -	Co-organizing WACV 2025 Workshop on Large Language and Vision Models ([LLVM-AD](https://llvm-ad.github.io/))
+
 08/2024 - 1 paper accepted at WACV 2024.
 
 06/2024 - 1 paper accepted at ECCV 2024.
