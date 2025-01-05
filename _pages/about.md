@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-👨‍💻 I am a lead (staff) research scientist & tech lead at Bosch Center for AI working on autonomous driving. In this role, I lead a team of research scientists on the design and development of foundation models for enhanced and safe autonomous driving. Toward this goal, I use techniques from vision-language models, large language models, diffusion models, self-supervised learning, and end-to-end motion planning. 
-My research  interests include computer vision, self-supervised learning, vision-language models, generative models, medical imaging, and autonomous driving. 
+👨‍💻 I am a lead (staff) research scientist & tech lead at Bosch Center for AI working on computer vision and embodied AI applications. In this role, I lead a team of research scientists on the design and development of foundation and GenAI models. Toward this goal, I use techniques from multimodal LLMs, diffusion models, 3D perception & captioning, self-supervised learning, and end-to-end autonomy. 
 
 🎓 I have received my Ph.D. from the department of Electrical and Computer Engineering at the University of Minnesota, under the supervision of [Prof. Mehmet Akçakaya](https://imagine.umn.edu/people/mehmet-ak%C3%A7akaya), and the B.Sc. in Electronics and Communication Engineering from Istanbul Technical University. 
 
 
 
 # Recent updates
+01/2025 -	Organizing CVPR 2025 Workshop on Distillation of Foundation Models ([WDFM-AD](https://cvpr.thecvf.com/Conferences/2025/workshop-list))
 
 10/2024 -	Co-organizing WACV 2025 Workshop on Large Language & Vision Models ([LLVM-AD](https://llvm-ad.github.io/))
 
