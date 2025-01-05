@@ -14,9 +14,9 @@ redirect_from:
 
 
 # Recent updates
-01/2025 -	Organizing CVPR 2025 Workshop on Distillation of Foundation Models ([WDFM-AD](https://cvpr.thecvf.com/Conferences/2025/workshop-list))
+01/2025 -	Organizing CVPR 2025 Workshop on Distillation of Foundation Models ([WDFM](https://cvpr.thecvf.com/Conferences/2025/workshop-list))
 
-10/2024 -	Co-organizing WACV 2025 Workshop on Large Language & Vision Models ([LLVM-AD](https://llvm-ad.github.io/))
+10/2024 -	Co-organizing WACV 2025 Workshop on Large Language & Vision Models ([LLVM](https://llvm-ad.github.io/))
 
 08/2024 - 1 paper accepted at WACV 2024.
 
