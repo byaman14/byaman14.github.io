@@ -9,12 +9,12 @@ redirect_from:
 
 👨‍💻 I am a lead (staff) research scientist & tech lead at Bosch Center for AI working on computer vision and embodied AI applications. In this role, I lead a team of research scientists on the design and development of foundation and GenAI models. Toward this goal, I use techniques from multimodal LLMs, diffusion models, 3D perception & captioning, self-supervised learning, and end-to-end autonomy. 
 
-🎓 I have received my Ph.D. from the department of Electrical and Computer Engineering at the University of Minnesota, under the supervision of [Prof. Mehmet Akçakaya](https://imagine.umn.edu/people/mehmet-ak%C3%A7akaya), and the B.Sc. in Electronics and Communication Engineering from Istanbul Technical University. 
+🎓 I have received my Ph.D. from the department of Electrical and Computer Engineering at the University of Minnesota, under the supervision of [Prof. Mehmet Akçakaya](https://imagine.umn.edu/people/mehmet-ak%C3%A7akaya), and the B.Sc. in Electronics and Communication Engineering from Istanbul Technical University. My PhD dissertation has been awarded with [2023 Best Dissertation Award](https://cse.umn.edu/ece/feature-stories/alumnus-burhaneddin-yaman-receives-2023-ieee-sps-best-phd-dissertation-award) by IEEE Signal Processing Society.  
 
 
 
 # Recent updates
-01/2025 -	Organizing CVPR 2025 Workshop on Distillation of Foundation Models ([WDFM](https://cvpr.thecvf.com/Conferences/2025/workshop-list))
+01/2025 -	Organizing CVPR 2025 Workshop on Distillation of Foundation Models ([WDFM](https://wdfm-ad.github.io/))
 
 10/2024 -	Co-organizing WACV 2025 Workshop on Large Language & Vision Models ([LLVM](https://llvm-ad.github.io/))
 
