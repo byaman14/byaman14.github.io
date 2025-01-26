@@ -14,6 +14,8 @@ redirect_from:
 
 
 # Recent updates
+01/2025 -	1 Paper accepted at ICLR 2025
+
 01/2025 -	Organizing CVPR 2025 Workshop on Distillation of Foundation Models ([WDFM](https://wdfm-ad.github.io/))
 
 10/2024 -	Co-organizing WACV 2025 Workshop on Large Language & Vision Models ([LLVM](https://llvm-ad.github.io/))
