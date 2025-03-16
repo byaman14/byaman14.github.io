@@ -14,7 +14,7 @@ redirect_from:
 
 
 # Recent updates
-02/2025 -	BEVDiffuser accepted at CVPR 2025.
+02/2025 -	[BEVDiffuser](https://arxiv.org/pdf/2502.19694) accepted at CVPR 2025.
 
 02/2025 -	Invited talk at UMN ([Link](https://cse.umn.edu/dsi/events/cse-dsi-machine-learning-seminar-burhan-yaman-bosch-research))
 
