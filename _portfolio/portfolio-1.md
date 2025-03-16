@@ -3,7 +3,7 @@ title: "Featured Projects"
 permalink: /portfolio/
 ---
 ### BEVDiffuser: Plug-and-Play Diffusion Models
-![Illustration of MTA](/images/bevdiffuser.png){: .align-right width="300px"} BEVDiffuser, a novel diffusion model that effectively denoises BEV feature maps using the ground-truth object layout as guidance.
+![Illustration of MTA](/images/bevdiffuser.png){: .align-right width="300px"} BEVDiffuser is a novel diffusion model that effectively denoises BEV feature maps using the ground-truth object layout as guidance.
 BEVDiffuser can be operated in a plug-and-play manner during training time to enhance existing BEV models during without modifying architectures or adding computational overhead at inference. [Arxiv](https://arxiv.org/pdf/2502.19694).
 
 ### MTA: Multimodal Task Alignment
