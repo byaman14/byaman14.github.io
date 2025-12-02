@@ -14,7 +14,7 @@ redirect_from:
 
 
 # Recent updates
-05/2025 -	Organizing 2nd Workshop on Distillation of Foundation Models at ICCV 2025 ([WDFM](https://wdfm-ad.github.io/iccv25)).
+05/2025 -	Organizing 2nd Workshop on Distillation of Foundation Models at ICCV 2025 ([WDFM](https://wdfm-ad.github.io/iccv25),[Blog](https://medium.com/@byaman019/a-peek-into-teslas-autonomous-future-core-tech-revealed-by-vp-ashok-elluswamy-at-iccv-2025-906df7ae95de)).
 
 02/2025 -	[BEVDiffuser](https://arxiv.org/pdf/2502.19694) accepted as a Higlight at CVPR 2025.
 
