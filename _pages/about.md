@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-👨‍💻 I am a staff applied scientist at Uber. Prior to Uber, I was a lead research scientist & tech lead at Bosch Center for AI working on computer vision and embodied AI applications, where I led a team of research scientists on the design and development of foundation and GenAI models. Toward this goal, I use techniques from multimodal LLMs, diffusion models, 3D vision, VLAs, self-supervised learning, and end-to-end autonomy. 
+👨‍💻 I am an AI/ML Manager at Uber, AV Labs. In this role, I am leading a team for modeling and research for autonomous vehicles. Toward this goal, we use techniques from multimodal LLMs, VLA, diffusion models, 3D vision, self-supervised learning, and end-to-end autonomy. 
+
+🔍 Hiring: I’m actively looking for strong AV/CV researchers (with top-tier publications) to join my team and work on exciting projects. If interested, please [message me on linkedin](https://www.linkedin.com/in/burhan-yaman-12139293/) with your resume.
 
 🎓 I have received my Ph.D. from the department of Electrical and Computer Engineering at the University of Minnesota, under the supervision of [Prof. Mehmet Akçakaya](https://imagine.umn.edu/people/mehmet-ak%C3%A7akaya), and the B.Sc. in Electronics and Communication Engineering from Istanbul Technical University. My PhD dissertation has been awarded with [2023 Best Dissertation Award](https://cse.umn.edu/ece/feature-stories/alumnus-burhaneddin-yaman-receives-2023-ieee-sps-best-phd-dissertation-award) by IEEE Signal Processing Society.  
 
