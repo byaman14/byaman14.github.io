@@ -16,6 +16,8 @@ redirect_from:
 
 
 # Recent updates
+02/2026 -	[MTA](https://arxiv.org/pdf/2411.10639v2) accepted to CVPR 2026.
+
 01/2026 -	Organizing  Workshop on Deployment of Foundation Models for Embodied AI at CVPR 2026 ([WDFM-EAI](https://wdfm-eai.github.io/CVPR26/)).
 
 05/2025 -	Organizing 2nd Workshop on Distillation of Foundation Models at ICCV 2025 ([WDFM-AD](https://wdfm-ad.github.io/iccv25),[Blog](https://medium.com/@byaman019/a-peek-into-teslas-autonomous-future-core-tech-revealed-by-vp-ashok-elluswamy-at-iccv-2025-906df7ae95de)).
